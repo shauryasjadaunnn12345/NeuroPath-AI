@@ -1,0 +1,801 @@
+patient_id,age,sex,moca_score,mmse_score,stage1_risk_prob,stage1_tier,stage2_flag_count,stage2_tier,stage3_flag_count,stage3_tier,pet_scan_recommended,final_priority_tier,current_stage,recommended_next_step
+P00435,79.0,M,10.0,20.0,0.6766233766233766,High,1,High,0,Medium,False,Medium,Stage 3 complete,Monitor; repeat MRI in 6-12 months
+P00667,59.0,M,23.0,21.0,0.6766233766233766,High,0,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; repeat biomarkers in 6 months
+P00244,60.0,M,21.0,25.0,0.6766233766233766,High,0,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; repeat biomarkers in 6 months
+P00186,84.0,F,17.0,17.0,0.6766233766233766,High,1,High,0,Medium,False,Medium,Stage 3 complete,Monitor; repeat MRI in 6-12 months
+P00328,71.0,M,21.0,21.0,0.6766217897115381,High,0,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; repeat biomarkers in 6 months
+P00522,65.0,M,14.0,17.0,0.668051948051948,High,1,High,1,High,True,High,Stage 4: PET scan recommended,PET scan for amyloid confirmation; refer to specialist for evaluation
+P00021,71.0,F,21.0,25.0,0.668051948051948,High,0,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; repeat biomarkers in 6 months
+P00505,50.0,F,23.0,28.0,0.667379679144385,High,0,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; repeat biomarkers in 6 months
+P00188,62.0,F,23.0,23.0,0.6393684746625923,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00710,77.0,M,17.0,19.0,0.63752799970673,Medium,2,High,1,High,True,High,Stage 4: PET scan recommended,PET scan for amyloid confirmation; refer to specialist for evaluation
+P00264,68.0,M,17.0,22.0,0.6326593801272701,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00163,89.0,M,16.0,21.0,0.6099567099567099,Medium,2,High,1,High,True,High,Stage 4: PET scan recommended,PET scan for amyloid confirmation; refer to specialist for evaluation
+P00095,59.0,F,19.0,24.0,0.600321908892076,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00096,60.0,M,20.0,24.0,0.5766233766233766,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00755,86.0,M,16.0,22.0,0.5723083710675432,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00720,64.0,F,17.0,20.0,0.568051948051948,Medium,3,High,2,High,True,High,Stage 4: PET scan recommended,PET scan for amyloid confirmation; refer to specialist for evaluation
+P00477,81.0,F,17.0,21.0,0.568051948051948,Medium,2,High,1,High,True,High,Stage 4: PET scan recommended,PET scan for amyloid confirmation; refer to specialist for evaluation
+P00499,56.0,F,23.0,26.0,0.5632532892060496,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00234,82.0,F,14.0,18.0,0.5623376623376624,Medium,2,High,2,High,True,High,Stage 4: PET scan recommended,PET scan for amyloid confirmation; refer to specialist for evaluation
+P00673,66.0,M,15.0,21.0,0.559822581220406,Medium,2,High,1,High,True,High,Stage 4: PET scan recommended,PET scan for amyloid confirmation; refer to specialist for evaluation
+P00375,76.0,F,17.0,21.0,0.5520538805884622,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00744,57.0,F,21.0,28.0,0.5511125817640994,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00323,81.0,M,17.0,24.0,0.5475937618026959,Medium,3,High,1,High,True,High,Stage 4: PET scan recommended,PET scan for amyloid confirmation; refer to specialist for evaluation
+P00151,71.0,M,16.0,23.0,0.5472325007452301,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00717,59.0,F,27.0,29.0,0.5393684746625923,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00272,75.0,M,17.0,22.0,0.5339821926348126,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00003,78.0,M,21.0,20.0,0.5308018210590768,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00641,60.0,M,20.0,22.0,0.5272054927453153,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00594,59.0,F,19.0,22.0,0.5267315932761408,Medium,3,High,0,Medium,False,Medium,Stage 3 complete,Monitor; repeat MRI in 6-12 months
+P00202,83.0,M,19.0,21.0,0.5265559287911912,Medium,2,High,0,Medium,False,Medium,Stage 3 complete,Monitor; repeat MRI in 6-12 months
+P00205,56.0,F,24.0,25.0,0.5250104301976382,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00347,67.0,M,16.0,21.0,0.5242156137384223,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00512,70.0,F,19.0,24.0,0.5099567099567099,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00206,72.0,M,16.0,22.0,0.5099567099567099,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00091,77.0,F,21.0,20.0,0.5099567099567099,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00032,69.0,F,22.0,21.0,0.5099567099567099,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00218,83.0,F,22.0,22.0,0.5099567099567099,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00384,62.0,F,21.0,20.0,0.506576872237887,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00760,76.0,M,17.0,22.0,0.5043203269601767,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00236,67.0,F,21.0,21.0,0.5033916247590786,Medium,2,High,1,High,True,High,Stage 4: PET scan recommended,PET scan for amyloid confirmation; refer to specialist for evaluation
+P00618,74.0,M,27.0,22.0,0.5013852813852814,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00703,64.0,F,21.0,22.0,0.5013852813852814,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00090,76.0,F,16.0,22.0,0.5013852813852814,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00361,71.0,M,17.0,21.0,0.5013852813852814,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00237,55.0,F,27.0,25.0,0.4992760193184149,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00110,58.0,M,23.0,23.0,0.4925553231066869,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00484,77.0,F,15.0,22.0,0.4921415839062898,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00327,59.0,F,19.0,25.0,0.4921415839062898,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00407,71.0,F,16.0,21.0,0.4921415839062898,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00395,78.0,F,21.0,20.0,0.4900392601854021,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00686,68.0,M,20.0,21.0,0.4869118422987292,Medium,2,High,1,High,True,High,Stage 4: PET scan recommended,PET scan for amyloid confirmation; refer to specialist for evaluation
+P00758,79.0,M,14.0,22.0,0.47714285714285715,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00652,71.0,M,26.0,25.0,0.47270180799592565,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00630,53.0,M,20.0,25.0,0.4716154025941889,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00694,54.0,M,19.0,22.0,0.4714285714285714,Medium,2,High,0,Medium,False,Medium,Stage 3 complete,Monitor; repeat MRI in 6-12 months
+P00235,66.0,M,18.0,23.0,0.4701976738121316,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00085,62.0,M,15.0,18.0,0.4701976738121316,Medium,3,High,2,High,True,High,Stage 4: PET scan recommended,PET scan for amyloid confirmation; refer to specialist for evaluation
+P00348,77.0,M,20.0,22.0,0.46789915966386547,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00177,85.0,F,21.0,23.0,0.4623376623376624,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00542,65.0,M,21.0,22.0,0.46162624524070306,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00014,81.0,F,16.0,21.0,0.46162624524070306,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00054,69.0,F,25.0,23.0,0.46162624524070306,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00591,62.0,F,18.0,23.0,0.46162624524070306,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00459,75.0,F,17.0,23.0,0.4537662337662338,Medium,2,High,0,Medium,False,Medium,Stage 3 complete,Monitor; repeat MRI in 6-12 months
+P00339,81.0,M,21.0,23.0,0.45238254776171144,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00541,59.0,M,20.0,25.0,0.44675820072920114,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00597,68.0,F,23.0,23.0,0.4450037730641873,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00527,84.0,M,21.0,23.0,0.4438008212104016,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00397,78.0,F,17.0,22.0,0.4431763108776471,Medium,2,High,1,High,True,High,Stage 4: PET scan recommended,PET scan for amyloid confirmation; refer to specialist for evaluation
+P00286,68.0,M,19.0,22.0,0.4375989863794742,Medium,2,High,1,High,True,High,Stage 4: PET scan recommended,PET scan for amyloid confirmation; refer to specialist for evaluation
+P00253,86.0,M,20.0,26.0,0.4375989863794742,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00245,89.0,M,23.0,24.0,0.4375989863794742,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00077,69.0,F,19.0,22.0,0.4375989863794742,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00747,86.0,M,22.0,22.0,0.4367587958140414,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00576,60.0,F,24.0,26.0,0.4304695304695304,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00772,83.0,F,23.0,21.0,0.4290275578080456,Medium,2,High,1,High,True,High,Stage 4: PET scan recommended,PET scan for amyloid confirmation; refer to specialist for evaluation
+P00546,71.0,F,17.0,23.0,0.4290275578080456,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00544,71.0,M,21.0,21.0,0.4290275578080456,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00061,59.0,M,20.0,23.0,0.4290275578080456,Medium,2,High,1,High,True,High,Stage 4: PET scan recommended,PET scan for amyloid confirmation; refer to specialist for evaluation
+P00681,79.0,M,19.0,20.0,0.4290275578080456,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00713,64.0,M,19.0,22.0,0.4290275578080456,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00143,55.0,M,20.0,25.0,0.4290275578080456,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00535,59.0,F,21.0,25.0,0.4290275578080456,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00699,65.0,F,22.0,23.0,0.4290275578080456,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00693,80.0,F,25.0,22.0,0.4290275578080456,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00181,82.0,M,19.0,21.0,0.4282929119073698,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00124,83.0,F,21.0,21.0,0.4281356289407895,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00692,70.0,F,22.0,23.0,0.4280337355268693,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00337,67.0,F,20.0,23.0,0.4268892814736107,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00190,85.0,M,21.0,22.0,0.4233132720937599,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00451,71.0,M,20.0,20.0,0.4233132720937599,Medium,2,High,1,High,True,High,Stage 4: PET scan recommended,PET scan for amyloid confirmation; refer to specialist for evaluation
+P00568,67.0,F,30.0,27.0,0.42013939309011583,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00619,67.0,M,22.0,22.0,0.419783860329054,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00446,60.0,M,21.0,24.0,0.419783860329054,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00500,60.0,M,23.0,24.0,0.419783860329054,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00789,63.0,F,22.0,22.0,0.419783860329054,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00039,65.0,M,20.0,28.0,0.419783860329054,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00731,76.0,M,14.0,18.0,0.41915772529529,Medium,2,High,1,High,True,High,Stage 4: PET scan recommended,PET scan for amyloid confirmation; refer to specialist for evaluation
+P00149,81.0,M,20.0,23.0,0.4190492144283781,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00279,82.0,F,21.0,21.0,0.41474184352233134,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00585,78.0,F,19.0,19.0,0.41474184352233134,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00790,71.0,M,19.0,20.0,0.41474184352233134,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00396,73.0,M,18.0,20.0,0.41474184352233134,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00498,69.0,F,26.0,26.0,0.4092493713320004,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00053,60.0,F,22.0,25.0,0.400456129236617,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00115,73.0,F,24.0,30.0,0.40034408441868985,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00793,76.0,M,19.0,19.0,0.40034408441868985,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00424,60.0,F,24.0,28.0,0.3994566501299315,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00674,61.0,F,21.0,24.0,0.3978399502348959,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00310,86.0,M,20.0,24.0,0.3978399502348959,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00740,54.0,F,19.0,22.0,0.3978399502348959,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00631,85.0,M,21.0,24.0,0.3978399502348959,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00613,61.0,M,21.0,23.0,0.3978399502348959,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00628,83.0,F,20.0,23.0,0.3978399502348959,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00343,73.0,M,20.0,22.0,0.3962871979059698,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00651,87.0,M,24.0,24.0,0.39625919306013657,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00231,60.0,M,21.0,25.0,0.3955414360866297,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00609,59.0,M,20.0,25.0,0.3955414360866297,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00443,75.0,M,15.0,23.0,0.3948067901859539,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00243,58.0,F,18.0,22.0,0.39164811552115225,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00287,74.0,M,19.0,21.0,0.39049941927990706,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00345,85.0,F,19.0,23.0,0.3892685216634673,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00350,84.0,F,21.0,23.0,0.3892685216634673,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00368,65.0,F,20.0,22.0,0.3892685216634673,Medium,3,High,1,High,True,High,Stage 4: PET scan recommended,PET scan for amyloid confirmation; refer to specialist for evaluation
+P00295,70.0,F,21.0,23.0,0.3892685216634673,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00301,86.0,F,20.0,23.0,0.3892685216634673,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00372,83.0,M,20.0,23.0,0.3892685216634673,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00043,67.0,F,19.0,22.0,0.3892685216634673,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00367,66.0,F,20.0,24.0,0.3892685216634673,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00189,61.0,F,19.0,24.0,0.3892685216634673,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00187,73.0,M,21.0,20.0,0.3892685216634673,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00062,69.0,F,20.0,21.0,0.3892685216634673,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00425,65.0,M,21.0,23.0,0.3892685216634673,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00120,70.0,F,20.0,22.0,0.3892685216634673,Medium,2,High,2,High,True,High,Stage 4: PET scan recommended,PET scan for amyloid confirmation; refer to specialist for evaluation
+P00097,61.0,M,20.0,19.0,0.3892685216634673,Medium,3,High,0,Medium,False,Medium,Stage 3 complete,Monitor; repeat MRI in 6-12 months
+P00083,69.0,M,17.0,20.0,0.3892685216634673,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00420,83.0,M,20.0,22.0,0.3892685216634673,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00672,74.0,F,19.0,22.0,0.3892685216634673,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00392,72.0,M,19.0,24.0,0.3892685216634673,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00577,83.0,M,22.0,23.0,0.3892685216634673,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00523,83.0,F,21.0,22.0,0.3892685216634673,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00134,70.0,M,26.0,25.0,0.3892685216634673,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00501,83.0,F,25.0,24.0,0.3892685216634673,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00603,82.0,M,21.0,22.0,0.3892685216634673,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00215,69.0,M,21.0,22.0,0.3892685216634673,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00482,83.0,F,21.0,22.0,0.3892685216634673,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00596,69.0,F,21.0,24.0,0.3892685216634673,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00322,70.0,F,20.0,26.0,0.3892685216634673,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00795,58.0,F,19.0,22.0,0.3892685216634673,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00575,74.0,F,21.0,20.0,0.3892685216634673,Medium,2,High,1,High,True,High,Stage 4: PET scan recommended,PET scan for amyloid confirmation; refer to specialist for evaluation
+P00146,69.0,M,21.0,23.0,0.3892685216634673,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00016,65.0,F,21.0,24.0,0.3892685216634673,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00775,72.0,M,19.0,22.0,0.3892685216634673,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00723,54.0,F,23.0,23.0,0.38859625275590426,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00269,72.0,M,19.0,23.0,0.38684813052290806,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00752,70.0,M,24.0,25.0,0.3860583701329756,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00437,68.0,F,28.0,26.0,0.3853451811346548,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00214,68.0,F,20.0,28.0,0.3832769550561599,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00432,76.0,M,19.0,23.0,0.38085904837760315,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00562,75.0,M,19.0,23.0,0.3800248241844757,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00610,76.0,F,20.0,23.0,0.3800248241844757,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00588,65.0,M,22.0,22.0,0.3800248241844757,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00583,70.0,M,21.0,23.0,0.3800248241844757,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00781,72.0,M,20.0,23.0,0.3800248241844757,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00556,70.0,M,23.0,22.0,0.3800248241844757,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00329,63.0,M,22.0,23.0,0.3800248241844757,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00796,71.0,M,21.0,22.0,0.3800248241844757,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00118,72.0,M,18.0,23.0,0.3800248241844757,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00727,74.0,F,21.0,24.0,0.3800248241844757,Medium,2,High,0,Medium,False,Medium,Stage 3 complete,Monitor; repeat MRI in 6-12 months
+P00282,58.0,M,22.0,24.0,0.3800248241844757,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00724,60.0,M,22.0,24.0,0.3800248241844757,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00273,71.0,F,20.0,20.0,0.3800248241844757,Medium,3,High,2,High,True,High,Stage 4: PET scan recommended,PET scan for amyloid confirmation; refer to specialist for evaluation
+P00306,64.0,F,20.0,23.0,0.3800248241844757,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00784,79.0,M,21.0,23.0,0.3800248241844757,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00052,77.0,M,21.0,23.0,0.3800248241844757,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00486,71.0,M,20.0,22.0,0.3800248241844757,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00636,70.0,F,20.0,23.0,0.3800248241844757,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00099,75.0,F,21.0,23.0,0.3800248241844757,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00107,64.0,F,21.0,23.0,0.3800248241844757,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00560,65.0,M,23.0,23.0,0.3800248241844757,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00008,69.0,F,21.0,23.0,0.3800248241844757,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00317,73.0,F,20.0,20.0,0.3800248241844757,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00318,66.0,M,22.0,25.0,0.3778997310433967,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00739,59.0,M,18.0,22.0,0.376814672653984,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00349,59.0,F,24.0,25.0,0.37519448029985264,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00121,64.0,M,22.0,24.0,0.373821915607465,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00479,72.0,F,22.0,24.0,0.37116407516084055,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00376,91.0,F,23.0,24.0,0.36902755780804564,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00464,55.0,F,16.0,23.0,0.365026097421043,Medium,2,High,1,High,True,High,Stage 4: PET scan recommended,PET scan for amyloid confirmation; refer to specialist for evaluation
+P00702,70.0,F,20.0,22.0,0.365026097421043,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00413,67.0,M,20.0,26.0,0.365026097421043,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00788,70.0,F,19.0,25.0,0.365026097421043,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00331,84.0,F,22.0,22.0,0.365026097421043,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00565,79.0,M,19.0,22.0,0.365026097421043,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00127,84.0,M,21.0,23.0,0.365026097421043,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00429,61.0,M,21.0,25.0,0.365026097421043,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00154,68.0,M,20.0,24.0,0.365026097421043,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00574,65.0,M,21.0,26.0,0.365026097421043,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00156,86.0,M,25.0,23.0,0.365026097421043,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00707,65.0,M,20.0,24.0,0.365026097421043,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00373,79.0,M,21.0,22.0,0.365026097421043,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00364,64.0,F,21.0,24.0,0.365026097421043,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00726,84.0,F,25.0,23.0,0.365026097421043,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00700,70.0,M,27.0,24.0,0.365026097421043,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00497,57.0,M,19.0,23.0,0.365026097421043,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00391,54.0,M,16.0,20.0,0.36435382851348,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00246,62.0,M,23.0,23.0,0.36069709309203873,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00779,72.0,F,20.0,26.0,0.36069709309203873,Medium,2,High,1,High,True,High,Stage 4: PET scan recommended,PET scan for amyloid confirmation; refer to specialist for evaluation
+P00463,59.0,F,18.0,21.0,0.36069709309203873,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00460,72.0,F,22.0,23.0,0.36069709309203873,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00411,60.0,M,19.0,19.0,0.3605850482741116,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00716,62.0,F,19.0,22.0,0.3605850482741116,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00729,63.0,F,23.0,24.0,0.3605850482741116,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00056,67.0,F,23.0,26.0,0.3605850482741116,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00007,73.0,F,20.0,21.0,0.3605850482741116,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00240,68.0,M,19.0,24.0,0.3563501369252101,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00661,58.0,M,21.0,24.0,0.3563466201464116,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00330,68.0,F,18.0,22.0,0.3557823999420514,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00164,65.0,F,20.0,23.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00258,69.0,M,22.0,25.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00082,67.0,F,19.0,23.0,0.3557823999420514,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00778,75.0,F,21.0,24.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00018,64.0,M,22.0,22.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00332,77.0,M,21.0,24.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00020,72.0,F,19.0,24.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00171,67.0,M,21.0,24.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00532,64.0,M,21.0,24.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00158,80.0,M,20.0,23.0,0.3557823999420514,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00166,65.0,F,21.0,23.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00380,68.0,M,18.0,23.0,0.3557823999420514,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00230,70.0,M,20.0,23.0,0.3557823999420514,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00274,89.0,F,24.0,26.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00012,78.0,F,19.0,21.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00359,65.0,F,21.0,23.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00057,70.0,F,23.0,26.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00302,60.0,F,25.0,24.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00386,66.0,F,20.0,25.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00709,70.0,M,19.0,25.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00696,66.0,M,21.0,25.0,0.3557823999420514,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00414,78.0,M,21.0,23.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00637,70.0,M,23.0,25.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00455,73.0,F,19.0,23.0,0.3557823999420514,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00211,79.0,M,21.0,23.0,0.3557823999420514,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00483,73.0,F,21.0,24.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00195,63.0,M,21.0,25.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00465,63.0,F,21.0,25.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00587,63.0,F,23.0,27.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00456,73.0,M,19.0,24.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00257,75.0,M,20.0,23.0,0.3557823999420514,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00239,64.0,F,20.0,24.0,0.3557823999420514,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00650,69.0,F,19.0,21.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00448,69.0,M,22.0,26.0,0.3557823999420514,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00640,76.0,F,20.0,21.0,0.3557823999420514,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00415,70.0,F,19.0,21.0,0.3557823999420514,Medium,2,High,0,Medium,False,Medium,Stage 3 complete,Monitor; repeat MRI in 6-12 months
+P00355,81.0,F,22.0,23.0,0.35355423594918156,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00511,60.0,M,22.0,26.0,0.35257224841155976,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00371,72.0,F,21.0,26.0,0.35134135079511997,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00488,75.0,F,20.0,24.0,0.35134135079511997,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00058,84.0,M,18.0,21.0,0.34997233398018285,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00108,69.0,M,23.0,26.0,0.3486669420707766,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00406,70.0,F,25.0,25.0,0.3449111955844769,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00666,58.0,F,25.0,27.0,0.3424962086106665,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00200,71.0,F,19.0,23.0,0.3410542359491816,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00305,72.0,F,22.0,24.0,0.3410542359491816,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00401,71.0,F,21.0,23.0,0.3410542359491816,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00288,72.0,F,22.0,24.0,0.3410542359491816,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00571,60.0,F,24.0,22.0,0.34072863650119123,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00034,65.0,M,22.0,24.0,0.3364546688496145,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00524,70.0,F,22.0,23.0,0.3364546688496145,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00601,76.0,M,26.0,28.0,0.3364546688496145,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00741,80.0,M,20.0,21.0,0.3363426240316873,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00737,78.0,F,22.0,21.0,0.3363426240316873,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00023,82.0,M,24.0,26.0,0.3363426240316873,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00639,77.0,M,19.0,21.0,0.3363426240316873,Medium,2,High,0,Medium,False,Medium,Stage 3 complete,Monitor; repeat MRI in 6-12 months
+P00478,63.0,M,21.0,26.0,0.3363426240316873,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00759,77.0,M,21.0,22.0,0.3363426240316873,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00161,64.0,M,19.0,23.0,0.33608017835445114,Medium,0,Low,0,Low,False,Low,Stage 2 complete,Routine re-screening in 12 months
+P00084,69.0,M,19.0,25.0,0.3356294350333665,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00439,67.0,F,23.0,23.0,0.332013619702683,Medium,1,Medium,0,Medium,False,Medium,Stage 2 complete,Monitor; consider MRI at clinician discretion
+P00678,75.0,F,18.0,20.0,0.32931181170675733,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00590,85.0,M,21.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00506,68.0,F,22.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00131,69.0,F,23.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00520,85.0,M,24.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00180,74.0,F,20.0,23.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00547,74.0,M,22.0,22.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00767,73.0,M,23.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00031,89.0,F,23.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00029,75.0,F,20.0,24.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00762,77.0,F,23.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00138,79.0,M,22.0,24.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00217,76.0,M,26.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00468,87.0,F,22.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00474,73.0,M,23.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00457,81.0,F,21.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00093,69.0,F,23.0,23.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00689,68.0,M,23.0,24.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00442,75.0,F,23.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00430,75.0,M,23.0,20.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00109,79.0,M,23.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00232,67.0,M,22.0,24.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00233,75.0,F,23.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00256,78.0,F,20.0,24.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00450,75.0,M,23.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00222,74.0,M,25.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00472,69.0,F,24.0,25.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00212,61.0,M,24.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00462,65.0,F,22.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00117,74.0,M,22.0,22.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00616,62.0,M,20.0,25.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00073,65.0,F,23.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00284,76.0,M,20.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00069,79.0,M,22.0,22.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00080,70.0,M,22.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00074,76.0,F,20.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00067,69.0,F,23.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00394,76.0,F,20.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00036,81.0,F,23.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00363,80.0,F,21.0,24.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00045,73.0,F,23.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00357,74.0,M,21.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00344,75.0,M,19.0,24.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00734,70.0,M,22.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00342,74.0,M,23.0,23.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00335,72.0,F,24.0,25.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00006,62.0,M,20.0,24.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00004,80.0,F,24.0,26.0,0.3270989265526957,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00311,81.0,F,22.0,24.0,0.32487076255982583,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00564,66.0,M,20.0,25.0,0.32487076255982583,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00325,87.0,F,24.0,23.0,0.32184499491943114,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00423,67.0,M,19.0,21.0,0.3212888605908271,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00754,88.0,F,26.0,26.0,0.3206687713420527,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00573,74.0,F,22.0,26.0,0.31885297395809964,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00697,53.0,M,18.0,24.0,0.31825378436824214,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00369,74.0,F,23.0,24.0,0.3168118117067573,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00733,76.0,F,18.0,19.0,0.3168118117067573,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00271,66.0,M,24.0,25.0,0.3168118117067573,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00421,73.0,F,23.0,23.0,0.3168118117067573,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00389,74.0,F,22.0,23.0,0.3168118117067573,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00427,78.0,F,24.0,26.0,0.3168118117067573,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00184,81.0,F,23.0,24.0,0.3123707625598259,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00100,65.0,F,24.0,25.0,0.3120451631118355,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00042,76.0,M,23.0,26.0,0.3120451631118355,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00130,65.0,F,19.0,25.0,0.3120451631118355,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00123,74.0,M,24.0,26.0,0.3120451631118355,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00431,64.0,F,19.0,25.0,0.3120451631118355,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00513,73.0,F,23.0,26.0,0.3120451631118355,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00354,79.0,F,26.0,26.0,0.3120451631118355,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00422,65.0,M,24.0,22.0,0.3120451631118355,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00362,75.0,F,19.0,25.0,0.3107080081577875,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00378,56.0,M,24.0,25.0,0.31038737446197995,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00292,73.0,F,22.0,24.0,0.3077711954602588,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00638,63.0,M,21.0,26.0,0.3077711954602588,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00011,79.0,F,20.0,26.0,0.3077711954602588,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00559,62.0,M,22.0,23.0,0.3077711954602588,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00537,68.0,M,23.0,24.0,0.3077711954602588,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00614,76.0,M,22.0,26.0,0.3077711954602588,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00060,80.0,F,24.0,22.0,0.3077711954602588,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00027,76.0,M,22.0,23.0,0.3077711954602588,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00684,68.0,F,20.0,24.0,0.3077711954602588,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00068,68.0,F,23.0,24.0,0.3077711954602588,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00167,79.0,M,21.0,26.0,0.3077711954602588,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00607,78.0,F,23.0,26.0,0.3077711954602588,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00743,64.0,F,18.0,25.0,0.30175804826589714,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00114,60.0,M,17.0,20.0,0.30175804826589714,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00063,73.0,F,18.0,25.0,0.30175804826589714,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00749,69.0,M,18.0,26.0,0.30175804826589714,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00129,67.0,M,19.0,26.0,0.30175804826589714,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00075,73.0,F,19.0,26.0,0.30175804826589714,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00798,80.0,F,19.0,26.0,0.30175804826589714,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00260,61.0,F,26.0,26.0,0.3012757097201862,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00634,57.0,F,21.0,23.0,0.30104789673540544,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00064,77.0,F,23.0,24.0,0.30098914520273207,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00566,78.0,F,23.0,24.0,0.30098914520273207,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00598,79.0,F,22.0,24.0,0.30098914520273207,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00416,74.0,M,22.0,23.0,0.3006283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00035,77.0,M,22.0,24.0,0.3006283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00764,77.0,F,22.0,26.0,0.3006283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00262,70.0,F,22.0,26.0,0.3006283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00624,67.0,F,23.0,25.0,0.3006283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00316,70.0,M,22.0,26.0,0.3006283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00732,72.0,M,19.0,25.0,0.3006283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00623,74.0,M,21.0,25.0,0.3006283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00208,62.0,F,18.0,24.0,0.3006283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00197,77.0,M,22.0,24.0,0.3006283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00055,68.0,F,23.0,23.0,0.3006283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00334,64.0,F,23.0,24.0,0.3006283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00358,74.0,F,25.0,26.0,0.30043225988602906,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00487,66.0,M,25.0,26.0,0.30043225988602906,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00766,58.0,F,19.0,27.0,0.29931181170675736,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00261,70.0,M,20.0,24.0,0.2977022641650192,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00224,63.0,F,23.0,25.0,0.29657084785133564,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00410,62.0,M,18.0,20.0,0.29487076255982586,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00514,71.0,F,23.0,23.0,0.29487076255982586,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00089,76.0,F,24.0,22.0,0.29411034650529216,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00617,78.0,M,19.0,22.0,0.29411034650529216,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00201,75.0,F,17.0,21.0,0.29411034650529216,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00722,81.0,M,22.0,22.0,0.29411034650529216,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00312,76.0,F,22.0,26.0,0.293990319343118,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00299,58.0,F,20.0,29.0,0.2930525807416441,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00517,77.0,M,21.0,26.0,0.29271743201939854,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00620,84.0,F,25.0,26.0,0.29271743201939854,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00017,75.0,M,19.0,25.0,0.29271743201939854,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00352,79.0,M,25.0,26.0,0.29271743201939854,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00044,74.0,M,22.0,26.0,0.29271743201939854,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00048,74.0,F,21.0,25.0,0.29271743201939854,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00677,91.0,M,26.0,23.0,0.29185796269727404,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00390,61.0,F,26.0,27.0,0.29185796269727404,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00025,69.0,M,24.0,22.0,0.2894828737285298,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00259,71.0,M,20.0,26.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00266,80.0,M,23.0,23.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00417,81.0,M,25.0,26.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00493,70.0,F,20.0,25.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00605,67.0,M,23.0,25.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00602,67.0,F,21.0,25.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00715,70.0,F,22.0,25.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00213,72.0,F,24.0,22.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00714,72.0,M,23.0,25.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00648,58.0,M,22.0,27.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00748,76.0,F,21.0,25.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00615,66.0,M,23.0,25.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00671,78.0,M,22.0,24.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00291,70.0,F,25.0,23.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00402,74.0,F,20.0,25.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00701,81.0,F,24.0,25.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00685,69.0,F,20.0,23.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00539,53.0,F,20.0,23.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00071,62.0,F,22.0,24.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00238,71.0,F,18.0,24.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00452,75.0,F,25.0,25.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00314,76.0,M,22.0,23.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00676,75.0,F,23.0,24.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00538,81.0,F,19.0,25.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00094,71.0,M,19.0,25.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00578,82.0,M,24.0,23.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00525,83.0,F,23.0,25.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00771,86.0,M,20.0,25.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00786,74.0,F,23.0,24.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00791,66.0,F,21.0,25.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00169,71.0,F,22.0,23.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00659,82.0,F,25.0,24.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00304,69.0,F,23.0,25.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00653,85.0,F,24.0,25.0,0.2881283383174016,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00078,73.0,M,22.0,21.0,0.2876801912946491,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00300,75.0,M,22.0,25.0,0.28557457487654136,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00356,74.0,M,23.0,26.0,0.28557457487654136,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00165,79.0,F,24.0,26.0,0.28557457487654136,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00210,69.0,F,19.0,25.0,0.28557457487654136,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00268,75.0,M,25.0,26.0,0.28543225988602905,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00569,76.0,M,24.0,22.0,0.28543225988602905,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00135,60.0,M,24.0,28.0,0.28486664902630054,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00403,79.0,M,24.0,25.0,0.2842580482658971,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00076,78.0,F,25.0,24.0,0.28169818310675854,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00248,87.0,M,21.0,25.0,0.28169818310675854,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00644,73.0,F,26.0,26.0,0.28169818310675854,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00160,63.0,M,24.0,23.0,0.28169818310675854,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00072,63.0,F,20.0,27.0,0.27514069264069263,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00409,56.0,M,23.0,22.0,0.27463867511911944,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00030,75.0,M,24.0,24.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00606,76.0,M,23.0,25.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00584,63.0,M,22.0,25.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00183,69.0,F,25.0,26.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00185,75.0,F,23.0,26.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00307,69.0,M,22.0,25.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00338,74.0,F,19.0,25.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00351,75.0,M,18.0,22.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00773,74.0,M,25.0,24.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00797,80.0,F,24.0,26.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00553,74.0,F,24.0,25.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00555,71.0,M,20.0,28.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00552,76.0,F,24.0,25.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00516,75.0,F,24.0,25.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00519,79.0,F,18.0,25.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00086,76.0,F,19.0,26.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00461,75.0,F,23.0,25.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00706,64.0,M,23.0,25.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00144,74.0,M,24.0,23.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00719,69.0,F,24.0,25.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00481,74.0,F,24.0,25.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00297,74.0,F,23.0,25.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00019,79.0,F,23.0,25.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00366,84.0,M,19.0,25.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00660,69.0,F,24.0,24.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00642,78.0,M,22.0,25.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00799,80.0,M,24.0,24.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00399,76.0,M,24.0,24.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00388,76.0,F,24.0,25.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00111,75.0,M,22.0,25.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00440,75.0,M,18.0,25.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00113,67.0,M,24.0,24.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00626,68.0,F,22.0,26.0,0.2730745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00254,64.0,F,20.0,24.0,0.27176327916565607,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00383,59.0,F,25.0,28.0,0.2713693826498704,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00092,71.0,F,23.0,24.0,0.27062833831740163,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00365,71.0,M,22.0,25.0,0.27062833831740163,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00627,69.0,F,18.0,20.0,0.2701384850334307,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00252,75.0,F,27.0,29.0,0.2688101564992198,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00787,72.0,F,20.0,28.0,0.2688101564992198,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00599,74.0,M,25.0,29.0,0.2688101564992198,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00751,72.0,F,15.0,26.0,0.2688101564992198,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00010,65.0,F,21.0,27.0,0.26664441966589836,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00162,66.0,F,22.0,27.0,0.26664441966589836,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00554,88.0,M,18.0,25.0,0.26664441966589836,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00289,70.0,M,20.0,28.0,0.26664441966589836,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00691,75.0,F,23.0,25.0,0.26472998337544057,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00263,74.0,F,19.0,22.0,0.264315934645439,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00668,76.0,M,25.0,28.0,0.2641981831067586,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00013,73.0,M,22.0,26.0,0.2614616716507349,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00656,75.0,M,26.0,25.0,0.2614616716507349,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00136,64.0,M,23.0,27.0,0.2610478967354054,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00278,63.0,F,24.0,27.0,0.2606284666235379,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00303,79.0,M,24.0,23.0,0.2597182749469998,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00664,69.0,F,25.0,25.0,0.25873167592972507,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00502,79.0,M,24.0,25.0,0.2555745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00708,76.0,M,24.0,25.0,0.2555745748765414,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00447,81.0,F,26.0,29.0,0.2537563930583596,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00711,72.0,M,23.0,28.0,0.25314433461034497,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00132,61.0,F,24.0,25.0,0.2528873744619799,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00276,75.0,M,25.0,26.0,0.2524436798386255,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00199,72.0,F,21.0,28.0,0.24914441966589837,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00543,74.0,M,20.0,28.0,0.24914441966589837,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00792,62.0,F,19.0,25.0,0.2478125635956005,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00550,77.0,M,27.0,29.0,0.24732623784771657,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00705,80.0,F,27.0,25.0,0.24732623784771657,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00777,63.0,F,26.0,24.0,0.24662712654861316,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00794,75.0,M,25.0,25.0,0.24646167165073493,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00679,75.0,M,26.0,25.0,0.24646167165073493,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00746,79.0,F,24.0,25.0,0.24646167165073493,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00670,51.0,M,22.0,22.0,0.24620832982278765,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00242,71.0,F,22.0,26.0,0.24589606079100643,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00438,63.0,F,14.0,20.0,0.24589606079100643,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00153,59.0,F,24.0,27.0,0.24589606079100643,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00586,88.0,F,24.0,22.0,0.24503833112192247,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00294,51.0,M,23.0,24.0,0.24439014800460584,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00088,72.0,M,18.0,22.0,0.24439014800460584,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00126,75.0,M,18.0,24.0,0.2436779124888649,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00326,78.0,F,26.0,25.0,0.2431999823596339,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00445,69.0,F,26.0,28.0,0.24311414686455937,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00582,63.0,F,26.0,23.0,0.2412316759297251,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00600,58.0,F,23.0,28.0,0.241210759001166,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00122,73.0,M,20.0,23.0,0.2394659055803634,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00680,71.0,M,25.0,25.0,0.2394659055803634,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00769,62.0,F,23.0,27.0,0.23946412414058776,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00687,78.0,M,27.0,29.0,0.23495190613145622,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00581,53.0,M,27.0,25.0,0.2330441488336225,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00467,70.0,M,22.0,26.0,0.23284645172919188,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00473,70.0,F,24.0,25.0,0.23084229735014622,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00494,76.0,F,24.0,24.0,0.23084229735014622,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00051,74.0,M,25.0,24.0,0.23084229735014622,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00133,77.0,M,24.0,21.0,0.23084229735014622,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00515,78.0,M,25.0,26.0,0.23084229735014622,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00633,69.0,M,24.0,26.0,0.23084229735014622,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00298,69.0,F,24.0,26.0,0.23084229735014622,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00309,77.0,F,16.0,22.0,0.23084229735014622,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00320,63.0,F,19.0,25.0,0.23084229735014622,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00504,60.0,F,24.0,26.0,0.23084229735014622,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00490,77.0,F,20.0,23.0,0.23071046600458364,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00255,70.0,M,24.0,26.0,0.23047154510393048,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00219,71.0,F,27.0,28.0,0.22839606079100644,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00290,71.0,M,22.0,25.0,0.2265778789728246,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00065,78.0,F,20.0,24.0,0.2265778789728246,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00385,59.0,M,21.0,25.0,0.2265778789728246,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00492,75.0,M,23.0,28.0,0.2249358407585358,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00657,65.0,M,25.0,24.0,0.2244121421395032,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00545,70.0,M,25.0,25.0,0.2244121421395032,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00508,75.0,F,24.0,29.0,0.2243597306706831,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00753,64.0,F,20.0,27.0,0.2233619811560988,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00742,82.0,F,17.0,24.0,0.22312592807651047,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00534,76.0,M,21.0,28.0,0.22253151644009192,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00728,78.0,F,24.0,29.0,0.2220868577743665,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00612,74.0,M,24.0,28.0,0.22146167165073494,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00662,72.0,M,22.0,27.0,0.22046045837420922,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00725,65.0,M,24.0,26.0,0.21922939412433978,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00038,65.0,M,24.0,26.0,0.21922939412433978,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00381,73.0,M,25.0,26.0,0.21922939412433978,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00765,75.0,M,24.0,23.0,0.21642786008912812,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00770,85.0,M,28.0,26.0,0.2155374682763796,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00333,66.0,M,19.0,28.0,0.2151765236988948,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00776,74.0,F,23.0,28.0,0.2144957816131908,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00645,69.0,F,21.0,26.0,0.2139456349624697,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00340,77.0,M,26.0,28.0,0.2133422973501462,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00229,65.0,M,23.0,27.0,0.21200837720487176,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00665,71.0,F,24.0,26.0,0.2115241155319644,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00449,81.0,M,15.0,22.0,0.21060555878273085,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00690,69.0,F,25.0,25.0,0.20815138274675493,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00782,71.0,M,26.0,24.0,0.20812617472430178,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00141,75.0,M,27.0,24.0,0.20691214213950318,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00531,69.0,M,26.0,24.0,0.20691214213950318,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00041,78.0,M,27.0,26.0,0.20691214213950318,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00663,65.0,M,23.0,28.0,0.20664290142199046,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00152,64.0,F,24.0,28.0,0.2063369151174029,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00426,69.0,F,23.0,29.0,0.20569069884586177,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00572,71.0,M,23.0,28.0,0.20509396032132138,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00159,68.0,M,24.0,25.0,0.204407278340194,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00033,68.0,F,25.0,27.0,0.20417117828408152,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00621,68.0,F,24.0,25.0,0.20306072088671376,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00277,66.0,M,24.0,25.0,0.2017293941243398,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00604,67.0,F,28.0,26.0,0.2016846150134343,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00382,82.0,F,27.0,26.0,0.20144563496246973,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00280,74.0,M,22.0,24.0,0.2012390116219959,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00647,77.0,M,20.0,27.0,0.20047237076648844,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00179,71.0,M,25.0,24.0,0.19991121230615794,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00223,73.0,M,20.0,25.0,0.19846747560465827,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00105,65.0,F,26.0,26.0,0.198329338155716,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00466,68.0,M,25.0,26.0,0.19779923891369675,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00196,65.0,F,23.0,29.0,0.1971812165851481,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00103,69.0,M,28.0,29.0,0.1969825114457076,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00150,73.0,F,23.0,28.0,0.19571333462191012,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00704,72.0,M,26.0,26.0,0.19529923891369677,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00495,70.0,F,25.0,25.0,0.19529923891369677,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00125,79.0,F,27.0,25.0,0.19524691429233312,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00595,62.0,M,23.0,27.0,0.19310133349472453,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00404,69.0,F,23.0,27.0,0.1927426068555101,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00695,65.0,M,29.0,26.0,0.19172939412433979,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00225,73.0,F,25.0,24.0,0.18885130030179656,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00128,62.0,M,25.0,29.0,0.1886144092638212,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00557,66.0,M,24.0,25.0,0.18672939412433975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00226,74.0,M,24.0,28.0,0.18672939412433975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00485,72.0,M,24.0,22.0,0.18529923891369676,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00374,79.0,F,27.0,29.0,0.18485299646589967,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00646,71.0,M,24.0,27.0,0.1848298631193368,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00496,79.0,M,26.0,26.0,0.18264509442073612,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00561,71.0,F,27.0,26.0,0.18212745314428788,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00785,72.0,F,23.0,26.0,0.18212745314428788,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00203,73.0,F,26.0,27.0,0.18212745314428788,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00377,70.0,F,22.0,27.0,0.18120467110704802,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00434,57.0,M,23.0,26.0,0.18112970362970363,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00470,64.0,M,23.0,25.0,0.18029923891369676,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00037,71.0,M,24.0,23.0,0.18029923891369676,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00718,77.0,M,29.0,29.0,0.17985458024797127,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00336,62.0,M,25.0,29.0,0.17985458024797127,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00570,74.0,F,23.0,27.0,0.1796990158860939,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00079,77.0,M,27.0,25.0,0.17848105709551493,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00293,84.0,M,26.0,25.0,0.17675844974496613,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00398,74.0,F,25.0,27.0,0.17547237076648842,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00022,67.0,M,27.0,26.0,0.17483273173666328,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00635,70.0,F,27.0,24.0,0.17483273173666328,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00735,74.0,M,25.0,25.0,0.17328482925798144,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00768,68.0,M,23.0,28.0,0.17279923891369675,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00050,73.0,M,24.0,23.0,0.17279923891369675,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00712,78.0,F,29.0,26.0,0.17233273173666327,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00476,69.0,F,21.0,29.0,0.17051454991848142,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00436,67.0,F,26.0,28.0,0.17051454991848142,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00360,71.0,M,24.0,29.0,0.17051454991848142,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00632,92.0,M,16.0,22.0,0.17051454991848142,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00009,72.0,F,25.0,28.0,0.17051454991848142,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00608,76.0,F,22.0,27.0,0.1682416770221648,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00172,76.0,F,22.0,27.0,0.1682416770221648,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00503,66.0,M,28.0,23.0,0.16742045103490888,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00267,73.0,M,25.0,24.0,0.1672527735096661,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00040,77.0,F,23.0,29.0,0.16702784730015027,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00518,66.0,M,23.0,23.0,0.16551168130115496,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00170,72.0,F,26.0,25.0,0.1650963982707422,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00471,75.0,F,20.0,24.0,0.16375843454790823,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00428,86.0,F,29.0,26.0,0.163704671107048,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00353,67.0,M,27.0,28.0,0.16341824226635399,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00270,72.0,F,23.0,27.0,0.1619402527297264,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00405,76.0,F,22.0,24.0,0.1618864892888662,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00757,65.0,F,30.0,26.0,0.1618864892888662,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00412,53.0,F,25.0,27.0,0.16050472314773495,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00087,68.0,F,24.0,21.0,0.1600394168987998,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00491,81.0,M,22.0,29.0,0.15754993989466035,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00283,79.0,F,18.0,23.0,0.15671505936065913,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00654,63.0,M,25.0,25.0,0.15529923891369674,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00081,76.0,M,26.0,28.0,0.15384302569330496,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00682,77.0,M,18.0,27.0,0.1534810570955149,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00182,74.0,M,23.0,28.0,0.1534810570955149,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00567,71.0,F,18.0,27.0,0.15250586358945495,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00592,74.0,F,21.0,24.0,0.1520364896656325,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00533,68.0,M,25.0,29.0,0.15027358606305974,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00059,65.0,M,27.0,26.0,0.14983273173666328,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00193,69.0,M,24.0,22.0,0.14983273173666328,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00024,71.0,F,20.0,26.0,0.1493566194411497,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00551,75.0,F,25.0,28.0,0.14855990643038886,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00137,75.0,F,26.0,27.0,0.14755985884034664,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00296,73.0,M,23.0,27.0,0.1468115218115218,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00049,77.0,M,23.0,26.0,0.14066319645267017,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00530,85.0,F,25.0,28.0,0.13967024845073625,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00155,72.0,F,25.0,24.0,0.1388450146344883,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00489,65.0,F,28.0,26.0,0.13724374063841344,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00275,85.0,M,27.0,28.0,0.13527358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00112,74.0,M,23.0,23.0,0.13527358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00698,64.0,M,25.0,25.0,0.13233273173666324,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00629,64.0,F,22.0,25.0,0.13233273173666324,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00209,65.0,M,26.0,25.0,0.13233273173666324,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00168,75.0,F,24.0,27.0,0.13233075088890608,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00528,73.0,M,25.0,28.0,0.13051454991848144,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00780,62.0,M,22.0,25.0,0.13051454991848144,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00669,68.0,M,24.0,28.0,0.13051454991848144,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00736,73.0,F,25.0,28.0,0.12988332712187028,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00191,86.0,M,26.0,27.0,0.12824167702216482,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00216,80.0,M,22.0,28.0,0.12824167702216482,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00321,78.0,F,23.0,27.0,0.12746622835882454,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00104,78.0,F,23.0,28.0,0.1273260048757222,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00441,70.0,F,25.0,28.0,0.12701044483628335,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00721,71.0,M,24.0,25.0,0.12390569004690258,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00101,69.0,M,29.0,26.0,0.12384501463448831,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00308,82.0,M,22.0,28.0,0.1218115218115218,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00622,72.0,M,24.0,27.0,0.12027358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00625,76.0,F,25.0,27.0,0.12027358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00536,77.0,F,28.0,30.0,0.12027358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00106,70.0,F,25.0,28.0,0.1202172845844344,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00221,70.0,M,24.0,25.0,0.11917385656880213,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00469,81.0,M,24.0,27.0,0.11824009324009324,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00066,78.0,F,23.0,27.0,0.11824009324009324,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00379,85.0,F,23.0,29.0,0.11824009324009324,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00783,86.0,M,22.0,27.0,0.11824009324009324,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00046,74.0,F,22.0,24.0,0.11530754192044515,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00116,68.0,M,26.0,28.0,0.11409256489898797,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00548,64.0,F,25.0,23.0,0.11339682614583,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00341,54.0,F,25.0,24.0,0.11250586358945491,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00178,73.0,M,25.0,28.0,0.11027358606305974,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00251,69.0,M,24.0,28.0,0.11027358606305974,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00563,72.0,M,24.0,26.0,0.11027358606305974,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00540,66.0,M,26.0,28.0,0.11027358606305974,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00549,78.0,M,27.0,28.0,0.11027358606305974,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00593,87.0,M,28.0,26.0,0.10551282051282052,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00509,68.0,F,26.0,28.0,0.10503829902643438,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00418,83.0,M,25.0,28.0,0.1020594168123615,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00285,63.0,M,24.0,27.0,0.10076391567966832,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00529,74.0,M,25.0,27.0,0.1007360440316151,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00249,95.0,M,19.0,25.0,0.09893560255006038,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00157,73.0,M,24.0,28.0,0.09884501463448832,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00098,64.0,F,26.0,27.0,0.09884501463448832,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00761,82.0,M,25.0,28.0,0.09884501463448832,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00148,71.0,M,24.0,28.0,0.09884501463448832,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00579,70.0,M,24.0,27.0,0.09884501463448832,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00774,83.0,M,21.0,28.0,0.09884501463448832,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00454,89.0,F,20.0,28.0,0.09884501463448832,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00419,71.0,M,24.0,28.0,0.09884501463448832,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00763,78.0,M,26.0,28.0,0.09884501463448832,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00281,76.0,M,22.0,30.0,0.09884501463448832,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00346,55.0,M,25.0,28.0,0.09772727272727273,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00611,64.0,M,28.0,28.0,0.09750966384911443,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00458,65.0,F,25.0,28.0,0.09533311779792035,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00675,79.0,F,26.0,27.0,0.09527358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00370,79.0,M,27.0,27.0,0.09527358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00400,66.0,M,26.0,27.0,0.09527358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00387,76.0,M,26.0,26.0,0.09527358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00313,86.0,F,23.0,30.0,0.09527358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00250,63.0,F,26.0,26.0,0.09527358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00738,78.0,M,24.0,27.0,0.09527358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00315,79.0,F,21.0,25.0,0.09527358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00589,74.0,M,22.0,26.0,0.09527358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00005,56.0,F,23.0,30.0,0.09527358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00247,63.0,M,26.0,27.0,0.09527358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00475,77.0,M,24.0,27.0,0.09527358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00745,73.0,M,25.0,27.0,0.09527358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00241,65.0,F,27.0,30.0,0.09527358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00204,77.0,M,24.0,27.0,0.09527358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00228,87.0,M,25.0,28.0,0.09527358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00070,70.0,M,25.0,27.0,0.09527358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00643,88.0,F,22.0,28.0,0.09527358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00658,73.0,M,25.0,27.0,0.09527358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00147,67.0,M,24.0,27.0,0.09527358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00194,84.0,M,22.0,27.0,0.09482386931391806,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00750,65.0,M,26.0,26.0,0.09324009324009323,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00319,80.0,M,23.0,27.0,0.09324009324009323,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00688,84.0,F,25.0,26.0,0.09324009324009323,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00730,63.0,F,30.0,26.0,0.09226606726606726,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00028,75.0,M,26.0,26.0,0.0902483644326502,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00265,76.0,M,25.0,25.0,0.0902483644326502,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00198,69.0,F,26.0,25.0,0.08772585436593128,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00227,92.0,F,20.0,24.0,0.08751093625796685,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00220,66.0,M,23.0,28.0,0.08675277615382357,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00558,64.0,F,26.0,27.0,0.08575196599529061,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00521,64.0,F,29.0,26.0,0.07759065203886398,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00175,62.0,M,24.0,19.0,0.07476076555023922,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00655,77.0,M,27.0,27.0,0.07245756296591463,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00453,88.0,F,19.0,28.0,0.0706110911243265,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00444,83.0,M,24.0,27.0,0.07027358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00119,85.0,M,24.0,27.0,0.07027358606305975,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00002,64.0,F,26.0,24.0,0.06804855085559472,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00173,68.0,F,29.0,28.0,0.06589433282624806,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00510,76.0,F,22.0,28.0,0.06369463869463869,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00026,69.0,F,25.0,27.0,0.06369463869463869,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00756,81.0,M,24.0,24.0,0.06369463869463869,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00526,68.0,M,28.0,28.0,0.06369463869463869,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00102,82.0,M,26.0,28.0,0.06369463869463869,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00145,65.0,M,27.0,24.0,0.06369463869463869,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00192,71.0,M,28.0,28.0,0.05434239339280715,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00408,79.0,F,26.0,27.0,0.05064549896858249,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00015,76.0,F,23.0,25.0,0.0386946386946387,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00047,79.0,F,25.0,28.0,0.0386946386946387,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00176,73.0,M,25.0,27.0,0.0386946386946387,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00174,62.0,M,23.0,27.0,0.0386946386946387,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00580,75.0,F,23.0,28.0,0.0386946386946387,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00649,73.0,M,25.0,27.0,0.0386946386946387,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00683,82.0,F,28.0,27.0,0.0386946386946387,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00139,88.0,M,26.0,28.0,0.0386946386946387,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00140,95.0,F,23.0,26.0,0.0386946386946387,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00142,64.0,M,27.0,28.0,0.0386946386946387,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00480,93.0,M,22.0,25.0,0.0386946386946387,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00507,91.0,M,21.0,30.0,0.0386946386946387,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00207,65.0,M,27.0,27.0,0.0386946386946387,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00433,71.0,F,25.0,27.0,0.0386946386946387,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00800,72.0,M,25.0,27.0,0.0386946386946387,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00324,78.0,F,23.0,25.0,0.0386946386946387,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00393,68.0,M,23.0,28.0,0.0386946386946387,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
+P00001,74.0,F,24.0,25.0,0.0386946386946387,Low,0,Low,0,Low,False,Low,Stage 1 complete,Routine re-screening in 12 months
